@@ -2,7 +2,7 @@
 
 
 # 📘 Employee Sentiment & Engagement Analysis  
-**Author:** YOUR NAME  
+**Author:** Kirthika R S
 **Internship Project Submission**
 
 ---
